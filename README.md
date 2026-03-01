@@ -1,1 +1,1 @@
-#работа "посмотри в окно"
+https://github.com/AwinterKLG/posmotri-v-okno-fd.git
