@@ -71,7 +71,6 @@ ol {
   flex-direction: column;
   gap: 36px;
   width: 399px;
-  height: 534px;
   height: 295px;
   overflow-y: auto;
 }
@@ -153,7 +152,6 @@ img {
 .content__video-card-title {
   max-width: 192px;
   overflow: hidden;
-  overflow: hidden;
   font-family: "Oswald", sans-serif;
   font-weight: 700;
   font-size: 30px;
@@ -166,13 +164,11 @@ img {
 .content__video-card-description {
   display: -webkit-box;
   overflow: hidden;
-  overflow: hidden;
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
   line-height: 100%;
-  line-clamp: 1;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
   line-clamp: 3;
@@ -332,7 +328,4 @@ input {
 .result__video-container,
 .content__list-container {
   position: relative;
-}
-.content__list-item {
-  width: 100%;
 }
