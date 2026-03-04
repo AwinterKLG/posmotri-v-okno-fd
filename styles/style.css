@@ -245,7 +245,7 @@ input[type] {
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
   opacity: 1;
 }
-.search-form__checkbox-list:hover {
+.search-form__label:hover .search-form__label-text {
   text-decoration: underline;
 }
 .button {
